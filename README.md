@@ -17,7 +17,7 @@ git clone https://github.com/TechWhizKid/LogiSound.git
 Next, install the required dependencies using _**pip:**_
 
 ```bash
-pip install -r requrements.txt
+pip install -r requirements.txt
 ```
 
 **_or_**
