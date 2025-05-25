@@ -11,7 +11,7 @@ _**A program that allows the user to select a unique sound effect that matches a
 To get started with LogiSound, you can clone the project using _**git:**_
 
 ```bash
-git clone https://github.com/TechWhizKid/LogiSound.git
+git clone https://github.com/8gudbits/LogiSound.git
 ```
 
 Next, install the required dependencies using _**pip:**_
